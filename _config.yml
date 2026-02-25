@@ -1,4 +1,5 @@
-baseurl: '/teste-webpage'
+url: "https://yourusername.github.io"
+baseurl: "/teste-webpage"
 permalink: pretty
 title: 'Jekyll Serif'
 
